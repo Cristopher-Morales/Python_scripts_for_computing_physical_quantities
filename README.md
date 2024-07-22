@@ -1,2 +1,2 @@
-# Python-scripts-for-computing-physical-quantities-using-Cantera
+# Python_scripts_for_computing_physical_quantities
 Repository for computing different physical quantities using Cantera and other tools
